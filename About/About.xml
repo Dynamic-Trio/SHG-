@@ -1,12 +1,12 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <ModMetaData>
-	<name>RimworldModTemplate</name>
+	<name>Superhero Genes+</name>
 	<author>The Dynamic Trio, CTH2004, SuperEngie, DopeUnicorn909</author>
-	<packageId>TdT.modID</packageId>
+	<packageId>TdT.shg+</packageId>
 	<supportedVersions>
 		<li>1.4</li>
 	</supportedVersions>
-	<description>The Mod Description
+	<description>This mod adds new genes, features, xenos, and more, to Superhero Genes+ by Alite
 
 ~~~Frequently asked questions. The bellow ones are used in almost all the mods, so they are included
 FAQ

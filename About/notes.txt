@@ -1,1 +1,1 @@
-
+add the natural meditation code into this mod, instead of using Natural Focus from another mod
