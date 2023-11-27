@@ -1,8 +1,8 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <ModMetaData>
-	<name>Superhero Genes+</name>
+	<name>Superhero Genes and Xenos+</name>
 	<author>The Dynamic Trio, CTH2004, SuperEngie, DopeUnicorn909</author>
-	<packageId>TdT.moreXenos.shg+</packageId>
+	<packageId>TdT.moreXenos.shg</packageId>
 	<supportedVersions>
 		<li>1.4</li>
 	</supportedVersions>
